@@ -1,0 +1,21 @@
+{
+    "version": "1.6.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://get.patent.dev/patent_1.6.0_windows_amd64.zip",
+            "bin": [
+                "patent.exe"
+            ],
+            "hash": "fb25a04b20e1c25e1f5f76262b8ffd2470d639477f2ec64fdae020b816e6d731"
+        },
+        "arm64": {
+            "url": "https://get.patent.dev/patent_1.6.0_windows_arm64.zip",
+            "bin": [
+                "patent.exe"
+            ],
+            "hash": "e53db8b1ff9607bd2d87dca086df3f189df1ab14503be3fded75a25c9969bb31"
+        }
+    },
+    "homepage": "https://patent.dev",
+    "description": "Patent Connector CLI"
+}
