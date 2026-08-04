@@ -6,14 +6,14 @@
             "bin": [
                 "patent.exe"
             ],
-            "hash": "385c6112677306bf811175fff1f214e763502023a98572719e31a14d5b6de3b0"
+            "hash": "db42bc54b89970e15d4715a85a61434ad943720b6e176f622fb42846a51339ec"
         },
         "arm64": {
             "url": "https://get.patent.dev/patent_1.7.19_windows_arm64.zip",
             "bin": [
                 "patent.exe"
             ],
-            "hash": "dde864659ed4c0b6bf9a621ae8ec9e966aa2525eb7df944b978da782f56dee99"
+            "hash": "356ff2830107c288619d4137ac749bbd5b6ee5bf8726cdf63ca4b0f056e1b8f5"
         }
     },
     "homepage": "https://patent.dev",
