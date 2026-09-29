@@ -1,19 +1,19 @@
 {
-    "version": "1.14.5",
+    "version": "1.14.6",
     "architecture": {
         "64bit": {
-            "url": "https://get.patent.dev/patent_1.14.5_windows_amd64.zip",
+            "url": "https://get.patent.dev/patent_1.14.6_windows_amd64.zip",
             "bin": [
                 "patent.exe"
             ],
-            "hash": "9fe360e638d0282e3a98d7d42d08b10a6d434cd54460c196a4ffa86715aad541"
+            "hash": "f012469edbb7e1b44d38f8eb26c7ac5c57662b2626700d9fd126fee722722b2a"
         },
         "arm64": {
-            "url": "https://get.patent.dev/patent_1.14.5_windows_arm64.zip",
+            "url": "https://get.patent.dev/patent_1.14.6_windows_arm64.zip",
             "bin": [
                 "patent.exe"
             ],
-            "hash": "1ffedf37a5fdf88e3e9907e98ec0b0792bb31d0b606bd035546f4bfa5bc89f24"
+            "hash": "4ded12bb2bd2574481cb92f6a773eddd4e2fcbd3158fef411b16d4599b0b048a"
         }
     },
     "homepage": "https://patent.dev",
